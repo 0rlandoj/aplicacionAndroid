@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ragnarok</string>
+
+    <string name="menu_home">Home</string>
+    <string name="Current_season">Animes de temporada</string>
+
+    <string name="viewed">visto</string>
+    <string name="not_viewed">no visto</string>
+
+    <string name="genders">generos:\ </string>
+    <string name="condition">estado:\ </string>
+    <string name="remove_anime">Eliminar anime</string>
+    <string name="chapters">capitulos</string>
+    <string name="Synopsis">Sinopsis:\ </string>
+
+
+    <string name="finished">finalizado</string>
+    <string name="In_transmission">En transmisión</string>
+
+    <string name="add_anime">Agregar anime:\ </string>
+
+
+
+
+    <string name="email">correo electronico\ </string>
+    <string name="name">nombre: </string>
+    <string name="telephone">telefono:\ </string>
+    <string name="verified_email">correo verificado:\ </string>
+    <string name="check_email">verificar email</string>
+
+    <string name="Statistics">estadisticas</string>
+    <string name="aggregates_animes">animes agregados:\ </string>
+    <string name="vieweds_animes">animes vistos:\ </string>
+    <string name="incomplete_animes">animes incompletos:\ </string>
+
+    <string name="The_email_is_verified">el correo se encuentra verificado</string>
+    <string name="The_email_is_not_verified">el correo no se encuentra verificado</string>
+
+    <string name="sign_off">cerrar sesion</string>
+
+    <string name="account">cuenta</string>
+    <string name="main">principal</string>
+
+    <string name="added_series">serie agregada</string>
+    <string name="deleted_series">serie eliminada</string>
+    <string name="representa_una_serie">Representa una serie</string>
+</resources>

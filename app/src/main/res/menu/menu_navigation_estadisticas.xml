@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/accountItem"
+        android:title="@string/account" />
+    <item
+        android:id="@+id/mainItem"
+        android:title="@string/main" />
+    <item
+        android:id="@+id/currentSeason"
+        android:title="@string/Current_season" />
+</menu>

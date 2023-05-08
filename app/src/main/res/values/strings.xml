@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Ragnarok</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_main3" translatable="false">Main3Activity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="Current_season">season anime</string>
+
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+
+    <string name="home_second" translatable="false">Home Second</string>
+
+    <string name="viewed">viewed</string>
+    <string name="not_viewed">not viewed</string>
+
+    <string name="genders">genders:\ </string>
+    <string name="condition">condition:\ </string>
+    <string name="remove_anime">remove anime</string>
+    <string name="chapters">chapters</string>
+    <string name="Synopsis">Synopsis:\ </string>
+
+    <string name="finished">finished</string>
+    <string name="In_transmission">In transmission</string>
+
+    <string name="add_anime">add anime:\ </string>
+
+
+    <string name="email">email:\ </string>
+    <string name="name">name:\ </string>
+    <string name="telephone">telephone:\ </string>
+    <string name="verified_email">verified email:\ </string>
+    <string name="check_email">check email</string>
+
+    <string name="Statistics">Statistics</string>
+    <string name="aggregates_animes">aggregates animes:\ </string>
+    <string name="vieweds_animes">vieweds animes:\ </string>
+    <string name="incomplete_animes">incomplete animes:\ </string>
+
+
+    <string name="The_email_is_verified">The email is verified</string>
+    <string name="The_email_is_not_verified">The email is not verified</string>
+
+
+    <string name="sign_off">Sign off</string>
+
+    <string name="account">account</string>
+    <string name="main">main</string>
+
+    <string name="added_series">Added series</string>
+    <string name="deleted_series">deleted series</string>
+    <string name="representa_una_serie">Representa una serie</string>
+</resources>
